@@ -37,7 +37,7 @@ body {
 }
 
 .hero h1 {
-  font-family: "Josefin Sans", cursive;
+  font-family: "Sacramento", cursive;
   font-size: 6rem;
 }
 
@@ -187,6 +187,8 @@ body {
 .gifts {
   padding-top: 10rem;
   padding-bottom: 8rem;
+  background-image: url(img/bg.png);
+  background-size: cover;
 }
 
 .story span,
